@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+*_Acorriger/
+__pycache__/
+mldata/
+*.bak
+*.zip
